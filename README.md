@@ -1,3 +1,8 @@
+# 目前该仓库已合并至 Wine 运行库仓库 VMInstaller 分支
+地址：  
+https://gitee.com/gfdgd-xi/deep-wine-runner  
+https://github.com/gfdgd-xi/deep-wine-runner
+
 # Windows虚拟机安装工具 
 ## 介绍
 基于VirtualBox/Qemu制作的小白Windows虚拟机安装工具，可以做到只需要用户下载系统镜像并点击安装即可，无需顾及虚拟机安装、创建、虚拟机的分区等等  
@@ -23,4 +28,4 @@ make -j4
 ## 预编译版本
 https://gitee.com/gfdgd-xi/deep-wine-runner/tree/main/VM
 
-# ©2020~2023 gfdgd xi
+# ©2020~Now gfdgd xi
